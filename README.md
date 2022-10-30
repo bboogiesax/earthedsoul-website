@@ -1,5 +1,5 @@
-# Aaliyah-bs4
-Aaliyah Bootstrap 4 is a free eCommerce Bootstrap 4 template for online clothing shop.
+# EarthedSoul-bs4
+EarthedSoul Bootstrap 4 is a free eCommerce Bootstrap 4 template for online clothing shop.
 
 ## Tech Stack
 HTML/CSS, JavaScript, Bootstrap 4, SASS
