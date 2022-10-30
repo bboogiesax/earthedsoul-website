@@ -1,7 +1,7 @@
 {
-  "name": "aaliyah-bootstrap4",
+  "name": "earthedsoul-bootstrap4",
   "version": "1.0.0",
-  "description": "Aaliyah - Bootstrap 4 Ecommerce Template.",
+  "description": "earthedsoul - Bootstrap 4 Ecommerce Template.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asis2016/aaliyah-bootstrap4.git"
+    "url": "git+https://github.com/asis2016/earthedsoul-bootstrap4.git"
   },
   "author": "Ashish Singh Maharjan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/asis2016/aaliyah-bootstrap4/issues"
+    "url": "https://github.com/asis2016/earthedsoul-bootstrap4/issues"
   },
-  "homepage": "https://github.com/asis2016/aaliyah-bootstrap4#readme",
+  "homepage": "https://github.com/asis2016/earthedsoul-bootstrap4#readme",
   "dependencies": {
     "sass": "^1.32.11"
   },
