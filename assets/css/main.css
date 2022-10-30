@@ -26,7 +26,7 @@
   --danger: #e83e8c;
   --light: #f8f9fa;
   --dark: #343a40;
-  --aaliyah: #6610f2;
+  --earthedsoul: #6610f2;
   --a-dark: #3a2a3a;
   --a-light: #f5f0ed;
   --a-primary-one: #e83e8c;
@@ -1776,17 +1776,17 @@ pre code {
   background-color: #b9bbbe;
 }
 
-.table-aaliyah,
-.table-aaliyah > th,
-.table-aaliyah > td {
+.table-earthedsoul,
+.table-earthedsoul > th,
+.table-earthedsoul > td {
   background-color: #d4bcfb;
 }
 
-.table-hover .table-aaliyah:hover {
+.table-hover .table-earthedsoul:hover {
   background-color: #c5a4fa;
 }
-.table-hover .table-aaliyah:hover > td,
-.table-hover .table-aaliyah:hover > th {
+.table-hover .table-earthedsoul:hover > td,
+.table-hover .table-earthedsoul:hover > th {
   background-color: #c5a4fa;
 }
 
@@ -2716,36 +2716,36 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
 }
 
-.btn-aaliyah {
+.btn-earthedsoul {
   color: #fff;
   background-color: #6610f2;
   border-color: #6610f2;
 }
-.btn-aaliyah:hover {
+.btn-earthedsoul:hover {
   color: #fff;
   background-color: #560bd0;
   border-color: #510bc4;
 }
-.btn-aaliyah:focus,
-.btn-aaliyah.focus {
+.btn-earthedsoul:focus,
+.btn-earthedsoul.focus {
   box-shadow: 0 0 0 0.2rem rgba(102, 16, 242, 0.5);
 }
-.btn-aaliyah.disabled,
-.btn-aaliyah:disabled {
+.btn-earthedsoul.disabled,
+.btn-earthedsoul:disabled {
   color: #fff;
   background-color: #6610f2;
   border-color: #6610f2;
 }
-.btn-aaliyah:not(:disabled):not(.disabled):active,
-.btn-aaliyah:not(:disabled):not(.disabled).active,
-.show > .btn-aaliyah.dropdown-toggle {
+.btn-earthedsoul:not(:disabled):not(.disabled):active,
+.btn-earthedsoul:not(:disabled):not(.disabled).active,
+.show > .btn-earthedsoul.dropdown-toggle {
   color: #fff;
   background-color: #510bc4;
   border-color: #4c0ab8;
 }
-.btn-aaliyah:not(:disabled):not(.disabled):active:focus,
-.btn-aaliyah:not(:disabled):not(.disabled).active:focus,
-.show > .btn-aaliyah.dropdown-toggle:focus {
+.btn-earthedsoul:not(:disabled):not(.disabled):active:focus,
+.btn-earthedsoul:not(:disabled):not(.disabled).active:focus,
+.show > .btn-earthedsoul.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(102, 16, 242, 0.5);
 }
 
@@ -3178,36 +3178,36 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
 }
 
-.btn-outline-aaliyah {
+.btn-outline-earthedsoul {
   color: #6610f2;
   background-color: transparent;
   background-image: none;
   border-color: #6610f2;
 }
-.btn-outline-aaliyah:hover {
+.btn-outline-earthedsoul:hover {
   color: #fff;
   background-color: #6610f2;
   border-color: #6610f2;
 }
-.btn-outline-aaliyah:focus,
-.btn-outline-aaliyah.focus {
+.btn-outline-earthedsoul:focus,
+.btn-outline-earthedsoul.focus {
   box-shadow: 0 0 0 0.2rem rgba(102, 16, 242, 0.5);
 }
-.btn-outline-aaliyah.disabled,
-.btn-outline-aaliyah:disabled {
+.btn-outline-earthedsoul.disabled,
+.btn-outline-earthedsoul:disabled {
   color: #6610f2;
   background-color: transparent;
 }
-.btn-outline-aaliyah:not(:disabled):not(.disabled):active,
-.btn-outline-aaliyah:not(:disabled):not(.disabled).active,
-.show > .btn-outline-aaliyah.dropdown-toggle {
+.btn-outline-earthedsoul:not(:disabled):not(.disabled):active,
+.btn-outline-earthedsoul:not(:disabled):not(.disabled).active,
+.show > .btn-outline-earthedsoul.dropdown-toggle {
   color: #fff;
   background-color: #6610f2;
   border-color: #6610f2;
 }
-.btn-outline-aaliyah:not(:disabled):not(.disabled):active:focus,
-.btn-outline-aaliyah:not(:disabled):not(.disabled).active:focus,
-.show > .btn-outline-aaliyah.dropdown-toggle:focus {
+.btn-outline-earthedsoul:not(:disabled):not(.disabled):active:focus,
+.btn-outline-earthedsoul:not(:disabled):not(.disabled).active:focus,
+.show > .btn-outline-earthedsoul.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(102, 16, 242, 0.5);
 }
 
@@ -5163,12 +5163,12 @@ input[type="button"].btn-block {
   background-color: #1d2124;
 }
 
-.badge-aaliyah {
+.badge-earthedsoul {
   color: #fff;
   background-color: #6610f2;
 }
-.badge-aaliyah[href]:hover,
-.badge-aaliyah[href]:focus {
+.badge-earthedsoul[href]:hover,
+.badge-earthedsoul[href]:focus {
   color: #fff;
   text-decoration: none;
   background-color: #510bc4;
@@ -5370,15 +5370,15 @@ input[type="button"].btn-block {
   color: #040505;
 }
 
-.alert-aaliyah {
+.alert-earthedsoul {
   color: #35087e;
   background-color: #e0cffc;
   border-color: #d4bcfb;
 }
-.alert-aaliyah hr {
+.alert-earthedsoul hr {
   border-top-color: #c5a4fa;
 }
-.alert-aaliyah .alert-link {
+.alert-earthedsoul .alert-link {
   color: #21054e;
 }
 
@@ -5691,16 +5691,16 @@ input[type="button"].btn-block {
   border-color: #1b1e21;
 }
 
-.list-group-item-aaliyah {
+.list-group-item-earthedsoul {
   color: #35087e;
   background-color: #d4bcfb;
 }
-.list-group-item-aaliyah.list-group-item-action:hover,
-.list-group-item-aaliyah.list-group-item-action:focus {
+.list-group-item-earthedsoul.list-group-item-action:hover,
+.list-group-item-earthedsoul.list-group-item-action:focus {
   color: #35087e;
   background-color: #c5a4fa;
 }
-.list-group-item-aaliyah.list-group-item-action.active {
+.list-group-item-earthedsoul.list-group-item-action.active {
   color: #fff;
   background-color: #35087e;
   border-color: #35087e;
@@ -6572,14 +6572,14 @@ button.bg-dark:focus {
   background-color: #1d2124 !important;
 }
 
-.bg-aaliyah {
+.bg-earthedsoul {
   background-color: #6610f2 !important;
 }
 
-a.bg-aaliyah:hover,
-a.bg-aaliyah:focus,
-button.bg-aaliyah:hover,
-button.bg-aaliyah:focus {
+a.bg-earthedsoul:hover,
+a.bg-earthedsoul:focus,
+button.bg-earthedsoul:hover,
+button.bg-earthedsoul:focus {
   background-color: #510bc4 !important;
 }
 
@@ -6718,7 +6718,7 @@ button.bg-a-primary-three:focus {
   border-color: #343a40 !important;
 }
 
-.border-aaliyah {
+.border-earthedsoul {
   border-color: #6610f2 !important;
 }
 
@@ -9674,12 +9674,12 @@ a.text-dark:focus {
   color: #1d2124 !important;
 }
 
-.text-aaliyah {
+.text-earthedsoul {
   color: #6610f2 !important;
 }
 
-a.text-aaliyah:hover,
-a.text-aaliyah:focus {
+a.text-earthedsoul:hover,
+a.text-earthedsoul:focus {
   color: #510bc4 !important;
 }
 
